@@ -9,17 +9,17 @@
     },
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/alecksmart/online-library.git"
+      "url": "git+https://github.com/alecksmart/architecture-react-node.git"
     },
     "keywords": [],
     "author": "",
     "license": "ISC",
     "bugs": {
-      "url": "https://github.com/alecksmart/online-library/issues"
+      "url": "https://github.com/alecksmart/architecture-react-node/issues"
     },
-    "homepage": "https://github.com/alecksmart/online-library#readme",
+    "homepage": "https://github.com/alecksmart/architecture-react-node#readme",
     "devDependencies": {
-      "concurrently": "@latest"
+      "concurrently": "latest"
     },
     "dependencies": {}
   }
